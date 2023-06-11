@@ -1,0 +1,8 @@
+openai
+langchain
+jupyter
+pypdf
+python-dotenv
+unstructured
+pdf2image
+pinecone-client
